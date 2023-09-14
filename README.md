@@ -1,4 +1,4 @@
-Détection du port du masque avec Keras
+#Détection du port du masque avec Keras
 Ce projet vise à développer un modèle de détection du port du masque à l'aide de Keras. Les étapes du projet sont les suivantes :
 
 Préparation des données
